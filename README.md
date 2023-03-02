@@ -5,4 +5,4 @@ concept of OOPs wherever required. Create dedicated functions for different tech
 Input options: list, dictionary 
 Process: Appropriate searching/sorting operation over the input data 
 Output: Searching: item location in list/ key in dictionary 
-        Sorting: sorted list/dictionary
+        Sorting: sorted list/dictionary.
